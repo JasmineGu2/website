@@ -220,6 +220,11 @@ p {
   margin: 20px;
 }
 
+.contact{
+  display:flex;
+  justify-items: flex-end;
+}
+
 .landing {
   display: flex;
   justify-content: center;

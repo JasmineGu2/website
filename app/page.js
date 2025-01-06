@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <div className="flex flex-col h-full w-full gap-1">
       <Header/>
-      <div className="justify-self-end">
+      <div className="contact">
       <Contact/>
       </div>
       <section id="landing">
